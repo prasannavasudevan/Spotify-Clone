@@ -1,10 +1,23 @@
 import React, { useState } from "react";
+import { useLocation } from "react-router-dom";
 
 function MainContent({ data, setSong }) {
+  const location = useLocation();
   const [text, setText] = useState('');
 
   const handleInput = (e) => {
     setText(e.target.value);
+  }
+
+  let heading = "";
+  if (location.pathname === "/top-tracks") {
+    heading = "Top Tracks";
+  } else if (location.pathname === "/favorites") {
+    heading = "Favorites";
+  } else if (location.pathname === "/recent") {
+    heading = "Recently Played";
+  } else {
+    heading = "For You";
   }
 
   const filteredData = text.trim() === ''
@@ -19,7 +32,7 @@ function MainContent({ data, setSong }) {
 
   return (
     <div className="main">
-      <h1 className="head">For You</h1>
+      <h1 className="head">{heading}</h1>
 
       <div className="input">
         <input
