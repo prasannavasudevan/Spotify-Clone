@@ -1,0 +1,73 @@
+[
+    {
+      "title": "Tare Gin",
+      "artist": "AR Rahman",
+      "thumbnail": "/assets/taregin.jpg",
+      "musicUrl": "/assets/songs/taregin.mp3",
+      "duration": "4:10"
+    },
+    {
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "duration": "2:56",
+      "thumbnail": "/assets/foundher.webp",
+      "musicUrl": "/assets/songs/foundher.mp3"
+    },
+    {
+      "title": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "duration": "4:17",
+      "thumbnail": "/assets/mj.jpeg",
+      "musicUrl": "/assets/songs/smooth-criminal.mp3"
+    },
+    {
+      "title": "Starboy",
+      "artist": "The Weeknd",
+      "duration": "4:16",
+      "thumbnail": "/assets/starboy.jpg",
+      "musicUrl": "/assets/songs/starboy.mp3"
+    },
+    {
+      "title": "Apatsu Apatsu",
+      "artist": "Rose",
+      "thumbnail": "/assets/apatsu.jpg",
+      "musicUrl": "/assets/songs/apatsu.mp3",
+      "duration": "3:20"
+    },
+    {
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "duration": "4:39",
+      "thumbnail": "/assets/perfect.jpeg",
+      "musicUrl": "/assets/songs/perfect.mp3"
+    },
+    {
+      "title": "Talking to the Moon",
+      "artist": "Bruno Mars",
+      "duration": "3:37",
+      "thumbnail": "/assets/moon.jpg",
+      "musicUrl": "/assets/songs/moon.mp3"
+    },
+    {
+      "title": "Sajini",
+      "artist": "Ram Sampath",
+      "thumbnail": "/assets/sajini.jpg",
+      "musicUrl": "/assets/songs/sajini.mp3",
+      "duration": "3:34"
+    },
+    {
+      "title": "Blue",
+      "artist": "Yung Kai",
+      "duration": "3:42",
+      "thumbnail": "/assets/blue.jpeg",
+      "musicUrl": "/assets/songs/blue.mp3"
+    },
+    {
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "duration": "3:46",
+      "thumbnail": "/assets/dragmedown.jpeg",
+      "musicUrl": "/assets/songs/dragmedown.mp3"
+    }
+  ]
+  

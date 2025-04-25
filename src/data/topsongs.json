@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Apatsu Apatsu",
+      "artist": "Rose",
+      "thumbnail": "/assets/apatsu.jpg",
+      "musicUrl": "/assets/songs/apatsu.mp3",
+      "duration": "3:20"
+    },
+    {
+      "title": "Die With a Smile",
+      "artist": "Bruno Mars",
+      "thumbnail": "/assets/diewithasmile.jpg",
+      "musicUrl": "/assets/songs/diewithasmile.mp3",
+      "duration": "2:58"
+    },
+    {
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "thumbnail": "/assets/night-changes.jpeg",
+      "musicUrl": "/assets/songs/nightchanges.mp3",
+      "duration": "3:47"
+    },
+    {
+      "title": "Sajini",
+      "artist": "Ram Sampath",
+      "thumbnail": "/assets/sajini.jpg",
+      "musicUrl": "/assets/songs/sajini.mp3",
+      "duration": "3:34"
+    },
+    {
+      "title": "Tare Gin",
+      "artist": "AR Rahman",
+      "thumbnail": "/assets/taregin.jpg",
+      "musicUrl": "/assets/songs/taregin.mp3",
+      "duration": "4:10"
+    },
+    {
+      "title": "Nenjukul Peidhidum",
+      "artist": "Harris Jayaraj",
+      "thumbnail": "/assets/nenjukulpeithidum.jpg",
+      "musicUrl": "/assets/songs/nenjukulpeithidum.mp3",
+      "duration": "5:15"
+    },
+    {
+      "title": "Aromale (Female Version)",
+      "artist": "AR Rahman",
+      "thumbnail": "/assets/aromale.jpg",
+      "musicUrl": "/assets/songs/aromalefemale.mp3",
+      "duration": "6:12"
+    },
+    {
+      "title": "Pouraadlaam",
+      "artist": "Amal Malik",
+      "thumbnail": "/assets/pouradalaam.jpg",
+      "musicUrl": "/assets/songs/pouradalaam.mp3",
+      "duration": "3:55"
+    }
+  ]
+  
