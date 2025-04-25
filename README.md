@@ -1,4 +1,4 @@
-**Here is the Sample Output**
+**Spotify-Clone Sample Output**
 
 *For You Section*
 
