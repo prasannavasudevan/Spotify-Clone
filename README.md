@@ -1,4 +1,3 @@
-**Spotify-Clone Sample Output
 
 # Spotify Clone App
 
