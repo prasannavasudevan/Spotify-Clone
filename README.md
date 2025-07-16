@@ -8,7 +8,7 @@ This app allows users to play, pause, skip songs, control volume, and search thr
 
 ## Demo
 
-[Live Demo URL here]((https://spotify-clone-roan-eight.vercel.app/))
+[Live Demo URL here](https://spotify-clone-roan-eight.vercel.app/)
 
 ---
 
